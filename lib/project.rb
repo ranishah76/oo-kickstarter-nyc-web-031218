@@ -1,9 +1,9 @@
 class Project
 
-attr_accessor :project
+attr_accessor :title
 
   def intialize
-    @project = project
-  end 
+    @title = title
+  end
 
 end
